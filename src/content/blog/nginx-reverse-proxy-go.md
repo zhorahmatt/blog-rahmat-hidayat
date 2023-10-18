@@ -5,7 +5,7 @@ draft: false
 comments: true
 pubDatetime: 2023-07-21T10:11:06.130Z
 author: zhorahmatt
-description: How you can add an 'Reading time' in your blog posts of AstroPaper.
+description: Here you can setting up nginx as reverse proxy in go.
 ---
 
 This is the recap of my recent work at office. so i can check it again if i have the same problem later.

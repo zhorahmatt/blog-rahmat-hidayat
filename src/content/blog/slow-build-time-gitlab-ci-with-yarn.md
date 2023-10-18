@@ -5,7 +5,7 @@ draft: false
 comments: true
 pubDatetime: 2023-07-21T10:11:06.130Z
 author: zhorahmatt
-description: How you can add an 'Reading time' in your blog posts of AstroPaper.
+description: ""
 ---
 
 Recently at my work, we have a work building internal dashboard and my colleague (a Front End Engineer) has picked React App for the front end. I got a job as an accident dev ops (it because our office does not have a dedicated dev ops yet).
