@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "zhorahmatt",
   desc: "Sharing my thought on everything",
   title: "zhorahmatt - blog",
-  // ogImage: "astropaper-og.jpg",
+  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: false,
   postPerPage: 10,
 };
