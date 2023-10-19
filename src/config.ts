@@ -4,19 +4,19 @@ export const SITE: Site = {
   website: "https://blog.rahmathidayat.my.id/",
   author: "zhorahmatt",
   desc: "Sharing my thought on everything",
-  title: ">",
-  ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  title: "zhorahmatt - blog",
+  // ogImage: "astropaper-og.jpg",
+  lightAndDarkMode: false,
   postPerPage: 10,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
-  enable: false,
+  enable: true,
   svg: true,
-  width: 216,
-  height: 46,
+  width: 300,
+  height: 50,
 };
 
 export const SOCIALS: SocialObjects = [
